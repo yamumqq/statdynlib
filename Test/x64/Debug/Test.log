@@ -1,0 +1,2 @@
+﻿  Test.cpp
+LINK : fatal error LNK1104: не удается открыть файл "..\x64\Debug\StaticLib.lib"
